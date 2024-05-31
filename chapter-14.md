@@ -108,6 +108,4 @@ showMessage("Ann"); // Output: Ann: no text given (default text used)
 **Returning a Value**
 
 - A function can return a value back to the code that called it. This value becomes the result of the function call.
-- Use the `return` keyword to specify the value to be returned:
-
-```javascript
+- Use the `return` keyword to specify the value to be returned
