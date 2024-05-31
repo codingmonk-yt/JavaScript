@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 5
 
 ## Interacting with Users in JavaScript
 
